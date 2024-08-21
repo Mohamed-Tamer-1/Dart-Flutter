@@ -36,7 +36,7 @@ class Welcome extends StatelessWidget {
                   color: const Color(0xFF0A5CFE),
                   alignment: Alignment.center,
                   child: const Text(
-                    "Download",
+                    "Welcome",
                     style: TextStyle(color: Colors.white, fontSize: 25),
                   )),
               Expanded(
@@ -61,7 +61,7 @@ class Welcome extends StatelessWidget {
                       ),
                       ElevatedButton(
                         onPressed: () {
-                          Navigator.pushNamed(context, "/Login");
+                          Navigator.pushNamed(context, "/log_in");
                         },
                         style: ButtonStyle(
                             alignment: Alignment.center,
@@ -82,7 +82,7 @@ class Welcome extends StatelessWidget {
                       ),
                       ElevatedButton(
                         onPressed: () {
-                          Navigator.pushNamed(context, "/Login");
+                          Navigator.pushNamed(context, "/log_in");
                         },
                         style: ButtonStyle(
                             alignment: Alignment.center,
@@ -103,7 +103,7 @@ class Welcome extends StatelessWidget {
                       ),
                       ElevatedButton(
                         onPressed: () {
-                          Navigator.pushNamed(context, "/SignUp");
+                          Navigator.pushNamed(context, "/sign_up");
                         },
                         style: ButtonStyle(
                             alignment: Alignment.center,
