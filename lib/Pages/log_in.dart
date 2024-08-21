@@ -41,7 +41,7 @@ class ReusableButton extends StatelessWidget {
               width: 24, // Width of the image
               height: 24, // Height of the image
             ),
-            const SizedBox(width: 5), // Spacing between image and text
+            const SizedBox(width: 3), // Spacing between image and text
             Text(
               text,
               style: const TextStyle(fontSize: 25, color: Colors.white),
