@@ -1,16 +1,5 @@
-# flutter_application_3
+# Music Player App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="position: relative; display: inline-block;">
+    <img src="https://github.com/Mohamed-Tamer-1/Dart-Flutter/blob/main/Music%20Player/ScreenShots/Screenshot_1724763607.png" width="300" style="position: absolute; z-index: 1; margin-left: 0;">
+</div>
